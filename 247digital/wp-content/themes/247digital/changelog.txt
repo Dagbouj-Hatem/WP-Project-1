@@ -1,0 +1,77 @@
+/*Change-log**/
+Version 1.7.2
+1. Drop down menu issue is fixed.
+2. Flicker social option added.
+
+
+Version 1.7.1
+1. Footer custom menu sub menu issue fixed.
+2. Home Blog display option issue fixed.
+
+Version 1.7
+1. All featured image and other image are resize.
+2. Multiple category portfolio short-code added.
+3. Customizer background image changes option added.
+4. other minor issues fixed.
+5. Multiple category blog short-code added.
+6** WPML carousel slider dots issue [Fixed] 
+ 
+
+Version 1.6
+1. Home Extra Feature added.
+2. In Theme Opiton When Page reload ,same tab will be open.
+3. PhotoBox slider view play option library.
+4. Shortcode Issue.
+5. Custom Color Issue.
+
+Version 1.5.2
+1. Call-out-button target button link changes.
+2. Slider text font size minimize.
+
+Version 1.5.1
+1. Add linkable image icons into service section.
+2. Solve post id issue into taxonomies and cpt.
+
+Version 1.5
+1. Team member are linkable.
+2. Client slider  are auto play ON/OFF option.
+3. Home-page Portfolio section are show category name below of portfolio title.
+4. Changed the all custom URL default settings.
+5. Add the Custom URL option for client, Team. Testimonial in theme option panel.
+6. Slider mouse hover issue fixed
+7. AutoPlay testimonial slide to option added in theme option panel
+8. Custom Home page to option added.
+9. RTL CSS Support.
+10. Latest font-awesome4.3.0 support
+11. Fully responsive to  ( Android, BlackBerry, iOS, Opera, Windows )  devices.
+
+
+Version 1.4.3
+1. Team member are linkable.
+2. Client slider  are auto play ON/OFF option.
+3. Menu JS error remove.
+
+
+Version 1.4.2
+1. Po file update.
+2. Client linkable 
+3. Home-portfolio linkable
+4. Show portfolio Category wise to short code added
+
+Version:1.4.1
+1. iPad Menu Fixed via JS.
+2. MultiPle Color scheme featured added.
+
+Version:1.3
+1. iPad Menu Fixed.
+2. 3rd level menu active class.
+3. Some minor changes. 
+
+Version:1.2
+1. Contact Page Timings Settings.
+2. Breadcrumbs ,
+3. Contact Form and Client CPT issue Fixed.
+Version : 1.1 Press Release
+1. Front Page Customizer
+2. Slider control
+3. Custom Post Type Slug

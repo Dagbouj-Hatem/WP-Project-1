@@ -1,0 +1,38 @@
+<wpml-config>   
+    <admin-texts>
+        <key name="enigma_options_pro">
+            <key name="home_service_title" /> 
+			<key name="service_column" />
+            <key name="extra_home_text" />
+			<key name="side_pause" />
+			<key name="home_portfolio_title" />
+			<key name="portfolio_related_project_title" />
+			<key name="home_blog_heading" />           
+			<key name="home_testi_title" />
+			<key name="home_client_title" />
+			<key name="call_out_text" />
+			<key name="call_out_button_text" />
+            <key name="contact_heading" />
+			<key name="contact_description" />
+			<key name="general_info_text" />
+			<key name="contact_email" />
+			<key name="phone_number_text" />           
+			<key name="contact_phone_no" />
+			<key name="work_time_text" />
+			<key name="work_time" />
+			<key name="where_we_are_text" />
+            <key name="footer_customizations" />
+			<key name="developed_by_text" />
+			<key name="developed_by_weblizar_text" />
+			<key name="coming_soon_heading" />
+			<key name="coming_soon_desc" />           
+			<key name="contact_phone_no" />
+			<key name="work_time_text" />
+			<key name="work_time" />
+        </key>
+        
+    </admin-texts>    
+    
+</wpml-config>
+
+

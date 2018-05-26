@@ -1,0 +1,1581 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ENIGMA\n"
+"POT-Creation-Date: 2014-12-12 15:23+0530\n"
+"PO-Revision-Date: 2014-12-12 15:26+0530\n"
+"Last-Translator: \n"
+"Language-Team: weblizar\n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: ../../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ../..\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: .\n"
+
+#: ../comment-function.php:12 ../../core/comment-function.php:12
+msgid "Reply"
+msgstr ""
+
+#: ../comment-function.php:23 ../../core/comment-function.php:23
+msgid "at"
+msgstr ""
+
+#: ../comment-function.php:31 ../../core/comment-function.php:31
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../customs/cpt.php:11 ../../core/customs/cpt.php:11
+msgid "Enigma Slider"
+msgstr ""
+
+#: ../customs/cpt.php:12 ../customs/cpt.php:13 ../../core/customs/cpt.php:12
+#: ../../core/customs/cpt.php:13
+msgid "Add New Slider"
+msgstr ""
+
+#: ../customs/cpt.php:14 ../customs/cpt.php:41 ../../core/customs/cpt.php:14
+#: ../../core/customs/cpt.php:41
+msgid "Add New service"
+msgstr ""
+
+#: ../customs/cpt.php:15 ../customs/cpt.php:42 ../customs/cpt.php:68
+#: ../customs/cpt.php:149 ../customs/cpt.php:176 ../customs/cpt.php:203
+#: ../../core/customs/cpt.php:15 ../../core/customs/cpt.php:42
+#: ../../core/customs/cpt.php:68 ../../core/customs/cpt.php:149
+#: ../../core/customs/cpt.php:176 ../../core/customs/cpt.php:203
+msgid "New Link"
+msgstr ""
+
+#: ../customs/cpt.php:16 ../../core/customs/cpt.php:16
+msgid "All Slider"
+msgstr ""
+
+#: ../customs/cpt.php:17 ../customs/cpt.php:44 ../customs/cpt.php:70
+#: ../customs/cpt.php:151 ../customs/cpt.php:178 ../customs/cpt.php:205
+#: ../../core/customs/cpt.php:17 ../../core/customs/cpt.php:44
+#: ../../core/customs/cpt.php:70 ../../core/customs/cpt.php:151
+#: ../../core/customs/cpt.php:178 ../../core/customs/cpt.php:205
+msgid "View Link"
+msgstr ""
+
+#: ../customs/cpt.php:18 ../customs/cpt.php:45 ../customs/cpt.php:71
+#: ../customs/cpt.php:152 ../customs/cpt.php:179 ../customs/cpt.php:206
+#: ../../core/customs/cpt.php:18 ../../core/customs/cpt.php:45
+#: ../../core/customs/cpt.php:71 ../../core/customs/cpt.php:152
+#: ../../core/customs/cpt.php:179 ../../core/customs/cpt.php:206
+msgid "Search Links"
+msgstr ""
+
+#: ../customs/cpt.php:19 ../customs/cpt.php:46 ../customs/cpt.php:72
+#: ../customs/cpt.php:153 ../customs/cpt.php:180 ../customs/cpt.php:207
+#: ../../core/customs/cpt.php:19 ../../core/customs/cpt.php:46
+#: ../../core/customs/cpt.php:72 ../../core/customs/cpt.php:153
+#: ../../core/customs/cpt.php:180 ../../core/customs/cpt.php:207
+msgid "No Links found"
+msgstr ""
+
+#: ../customs/cpt.php:20 ../customs/cpt.php:47 ../customs/cpt.php:73
+#: ../customs/cpt.php:154 ../customs/cpt.php:181 ../customs/cpt.php:208
+#: ../../core/customs/cpt.php:20 ../../core/customs/cpt.php:47
+#: ../../core/customs/cpt.php:73 ../../core/customs/cpt.php:154
+#: ../../core/customs/cpt.php:181 ../../core/customs/cpt.php:208
+msgid "No Links found in Trash"
+msgstr ""
+
+#: ../customs/cpt.php:38 ../../core/customs/cpt.php:38
+msgid "Enigma Service"
+msgstr ""
+
+#: ../customs/cpt.php:39 ../customs/cpt.php:40 ../../core/customs/cpt.php:39
+#: ../../core/customs/cpt.php:40
+msgid "Add New Service"
+msgstr ""
+
+#: ../customs/cpt.php:43 ../../core/customs/cpt.php:43
+msgid "All Services"
+msgstr ""
+
+#: ../customs/cpt.php:64 ../../core/customs/cpt.php:64
+msgid "Enigma Portfolio"
+msgstr ""
+
+#: ../customs/cpt.php:65 ../../core/customs/cpt.php:65
+msgid "Add New Item"
+msgstr ""
+
+#: ../customs/cpt.php:66 ../../core/customs/cpt.php:66
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../customs/cpt.php:67 ../../core/customs/cpt.php:67
+msgid "Add New Portfolio "
+msgstr ""
+
+#: ../customs/cpt.php:69 ../../core/customs/cpt.php:69
+msgid "All Portfolio"
+msgstr ""
+
+#: ../customs/cpt.php:145 ../../core/customs/cpt.php:145
+msgid "Enigma Testimonial"
+msgstr ""
+
+#: ../customs/cpt.php:146 ../customs/cpt.php:147 ../customs/cpt.php:148
+#: ../../core/customs/cpt.php:146 ../../core/customs/cpt.php:147
+#: ../../core/customs/cpt.php:148
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../customs/cpt.php:150 ../../core/customs/cpt.php:150
+msgid "All Testimonial"
+msgstr ""
+
+#: ../customs/cpt.php:173 ../customs/cpt.php:174 ../customs/cpt.php:175
+#: ../../core/customs/cpt.php:173 ../../core/customs/cpt.php:174
+#: ../../core/customs/cpt.php:175
+msgid "Add New Client"
+msgstr ""
+
+#: ../customs/cpt.php:177 ../../core/customs/cpt.php:177
+msgid "All Client"
+msgstr ""
+
+#: ../customs/cpt.php:199 ../../core/customs/cpt.php:199
+msgid "Enigma Team"
+msgstr ""
+
+#: ../customs/cpt.php:200 ../../core/customs/cpt.php:200
+msgid "Add New Team Member"
+msgstr ""
+
+#: ../customs/cpt.php:201 ../customs/cpt.php:202
+#: ../../core/customs/cpt.php:201 ../../core/customs/cpt.php:202
+msgid "Add New Member"
+msgstr ""
+
+#: ../customs/cpt.php:204 ../../core/customs/cpt.php:204
+msgid "All Team Member"
+msgstr ""
+
+#: ../customs/flickr-widget.php:15 ../../core/customs/flickr-widget.php:15
+msgid "Enigma Flicker widget"
+msgstr ""
+
+#: ../customs/flickr-widget.php:16 ../../core/customs/flickr-widget.php:16
+msgid "Displays your latest Flicker photos."
+msgstr ""
+
+#: ../customs/flickr-widget.php:51 ../../core/customs/flickr-widget.php:51
+msgid "Fliker PhotoStream"
+msgstr ""
+
+#: ../customs/flickr-widget.php:57 ../customs/wl-footer-contact-widgets.php:76
+#: ../customs/wl-recent-posts.php:69 ../../core/customs/flickr-widget.php:57
+#: ../../core/customs/wl-footer-contact-widgets.php:76
+#: ../../core/customs/wl-recent-posts.php:69
+msgid "Title:"
+msgstr ""
+
+#: ../customs/flickr-widget.php:61 ../../core/customs/flickr-widget.php:61
+msgid ""
+"Flickr ID (use <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</"
+"a>):"
+msgstr ""
+
+#: ../customs/flickr-widget.php:65 ../../core/customs/flickr-widget.php:65
+msgid "Number of images to display:"
+msgstr ""
+
+#: ../customs/metabox.php:23 ../../core/customs/metabox.php:23
+msgid "Slider Description"
+msgstr ""
+
+#: ../customs/metabox.php:25 ../../core/customs/metabox.php:25
+msgid "Slider Button"
+msgstr ""
+
+#: ../customs/metabox.php:26 ../customs/metabox.php:50
+#: ../customs/metabox.php:74 ../../core/customs/metabox.php:26
+#: ../../core/customs/metabox.php:50 ../../core/customs/metabox.php:74
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../customs/metabox.php:43 ../../core/customs/metabox.php:43
+msgid "Portfolio Client"
+msgstr ""
+
+#: ../customs/metabox.php:45 ../../core/customs/metabox.php:45
+msgid "Portfolio Skill"
+msgstr ""
+
+#: ../customs/metabox.php:47 ../../core/customs/metabox.php:47
+msgid "Portfolio URL"
+msgstr ""
+
+#: ../customs/metabox.php:49 ../../core/customs/metabox.php:49
+msgid "Portfolio Button"
+msgstr ""
+
+#: ../customs/metabox.php:66 ../../core/customs/metabox.php:66
+msgid "Service font-awesome Icons"
+msgstr ""
+
+#: ../customs/metabox.php:70 ../../core/customs/metabox.php:70
+msgid "Service Description"
+msgstr ""
+
+#: ../customs/metabox.php:72 ../../core/customs/metabox.php:72
+msgid "Service Button Text"
+msgstr ""
+
+#: ../customs/metabox.php:86 ../../core/customs/metabox.php:86
+msgid "Testimonials Description Box"
+msgstr ""
+
+#: ../customs/metabox.php:87 ../customs/metabox.php:103
+#: ../../core/customs/metabox.php:87 ../../core/customs/metabox.php:103
+msgid "Members Designation"
+msgstr ""
+
+#: ../customs/metabox.php:105 ../../core/customs/metabox.php:105
+msgid "Social Media Setting"
+msgstr ""
+
+#: ../customs/metabox.php:106 ../../core/customs/metabox.php:106
+msgid "Facebook"
+msgstr ""
+
+#: ../customs/metabox.php:108 ../../core/customs/metabox.php:108
+msgid "Twitter Url"
+msgstr ""
+
+#: ../customs/metabox.php:110 ../../core/customs/metabox.php:110
+msgid "LinkedIn Url"
+msgstr ""
+
+#: ../customs/wl-footer-contact-widgets.php:15
+#: ../../core/customs/wl-footer-contact-widgets.php:15
+msgid "Enigma Footer Contact"
+msgstr ""
+
+#: ../customs/wl-footer-contact-widgets.php:16
+#: ../../core/customs/wl-footer-contact-widgets.php:16
+msgid "Your contact details display"
+msgstr ""
+
+#: ../customs/wl-footer-contact-widgets.php:42
+#: ../../core/customs/wl-footer-contact-widgets.php:42
+msgid "25, Lorem Lis Street"
+msgstr ""
+
+#: ../customs/wl-footer-contact-widgets.php:43
+#: ../customs/wl-footer-contact-widgets.php:63
+#: ../../core/customs/wl-footer-contact-widgets.php:43
+#: ../../core/customs/wl-footer-contact-widgets.php:63
+msgid "987-654-321"
+msgstr ""
+
+#: ../customs/wl-footer-contact-widgets.php:44
+#: ../../core/customs/wl-footer-contact-widgets.php:44
+msgid "mail@me.com"
+msgstr ""
+
+#: ../customs/wl-footer-contact-widgets.php:44
+#: ../../core/customs/wl-footer-contact-widgets.php:44
+msgid "info@weblizar.com"
+msgstr ""
+
+#: ../customs/wl-footer-contact-widgets.php:45
+#: ../customs/wl-footer-contact-widgets.php:69
+#: ../../core/customs/wl-footer-contact-widgets.php:45
+#: ../../core/customs/wl-footer-contact-widgets.php:69
+msgid "weblizar.com"
+msgstr ""
+
+#: ../customs/wl-footer-contact-widgets.php:60
+#: ../../core/customs/wl-footer-contact-widgets.php:60 ../../footer.php:84
+msgid "Contact Info"
+msgstr ""
+
+#: ../customs/wl-footer-contact-widgets.php:66
+#: ../../core/customs/wl-footer-contact-widgets.php:66
+msgid "help@me.com "
+msgstr ""
+
+#: ../customs/wl-footer-contact-widgets.php:72
+#: ../../core/customs/wl-footer-contact-widgets.php:72
+msgid "Auckland, NZ "
+msgstr ""
+
+#: ../customs/wl-footer-contact-widgets.php:79
+#: ../../core/customs/wl-footer-contact-widgets.php:79
+msgid "Contact phone number:"
+msgstr ""
+
+#: ../customs/wl-footer-contact-widgets.php:83
+#: ../../core/customs/wl-footer-contact-widgets.php:83
+msgid "E-mail address:"
+msgstr ""
+
+#: ../customs/wl-footer-contact-widgets.php:86
+#: ../../core/customs/wl-footer-contact-widgets.php:86
+msgid "Website :"
+msgstr ""
+
+#: ../customs/wl-footer-contact-widgets.php:90
+#: ../../core/customs/wl-footer-contact-widgets.php:90
+msgid "Contact address:"
+msgstr ""
+
+#: ../customs/wl-recent-posts.php:16 ../../core/customs/wl-recent-posts.php:16
+msgid "Enigma Recent Posts"
+msgstr ""
+
+#: ../customs/wl-recent-posts.php:17 ../../core/customs/wl-recent-posts.php:17
+msgid "The Recent post display on your sites"
+msgstr ""
+
+#: ../customs/wl-recent-posts.php:64 ../../core/customs/wl-recent-posts.php:64
+msgid "Recent Post"
+msgstr ""
+
+#: ../customs/wl-recent-posts.php:73 ../../core/customs/wl-recent-posts.php:73
+msgid "Number of pages to show:"
+msgstr ""
+
+#: ../shortcodes/shortcodes_iframe.php:31
+#: ../../core/shortcodes/shortcodes_iframe.php:31
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ../shortcodes/shortcodes_iframe.php:65
+#: ../../core/shortcodes/shortcodes_iframe.php:65
+msgid "Shortcode Selector"
+msgstr ""
+
+#: ../shortcodes/shortcodes_iframe.php:73
+#: ../../core/shortcodes/shortcodes_iframe.php:73
+msgid "Shortcodes"
+msgstr ""
+
+#: ../shortcodes/shortcodes_iframe.php:74
+#: ../../core/shortcodes/shortcodes_iframe.php:74
+msgid "Accordion"
+msgstr ""
+
+#: ../shortcodes/shortcodes_iframe.php:75
+#: ../../core/shortcodes/shortcodes_iframe.php:75
+msgid "Alert"
+msgstr ""
+
+#: ../shortcodes/shortcodes_iframe.php:76
+#: ../../core/shortcodes/shortcodes_iframe.php:76
+msgid "Button"
+msgstr ""
+
+#: ../shortcodes/shortcodes_iframe.php:77
+#: ../../core/shortcodes/shortcodes_iframe.php:77
+msgid "Column"
+msgstr ""
+
+#: ../shortcodes/shortcodes_iframe.php:78
+#: ../../core/shortcodes/shortcodes_iframe.php:78
+msgid "Drop-Caps"
+msgstr ""
+
+#: ../shortcodes/shortcodes_iframe.php:79
+#: ../../core/shortcodes/shortcodes_iframe.php:79
+msgid "Heading"
+msgstr ""
+
+#: ../shortcodes/shortcodes_iframe.php:80
+#: ../../core/shortcodes/shortcodes_iframe.php:80
+msgid "Panel"
+msgstr ""
+
+#: ../shortcodes/shortcodes_iframe.php:81
+#: ../../core/shortcodes/shortcodes_iframe.php:81
+msgid "Popover"
+msgstr ""
+
+#: ../shortcodes/shortcodes_iframe.php:82
+#: ../../core/shortcodes/shortcodes_iframe.php:82
+msgid "Progress bar"
+msgstr ""
+
+#: ../shortcodes/shortcodes_iframe.php:83
+#: ../../core/shortcodes/shortcodes_iframe.php:83
+msgid "Tabs"
+msgstr ""
+
+#: ../shortcodes/shortcodes_iframe.php:84
+#: ../../core/shortcodes/shortcodes_iframe.php:84
+msgid "Tool Tip"
+msgstr ""
+
+#: ../../404.php:6 ../../404.php:9
+msgid "404 Error"
+msgstr ""
+
+#: ../../404.php:8 ../../functions.php:116
+msgid "Home"
+msgstr ""
+
+#: ../../404.php:20 ../../nocontent.php:3
+msgid "404"
+msgstr ""
+
+#: ../../404.php:21
+msgid "Whoops... Page Not Found !!!"
+msgstr ""
+
+#: ../../404.php:22 ../../nocontent.php:5
+msgid "We`re sorry, but the page you are looking for doesn`t exist."
+msgstr ""
+
+#: ../../404.php:23 ../../nocontent.php:6
+msgid "Go To Homepage"
+msgstr ""
+
+#: ../../about-us.php:80
+msgid "Linda Rozer"
+msgstr ""
+
+#: ../../about-us.php:81
+msgid "(Designer)"
+msgstr ""
+
+#: ../../about-us.php:100
+msgid "John Mackenzy"
+msgstr ""
+
+#: ../../about-us.php:101
+msgid "(Hr Manager)"
+msgstr ""
+
+#: ../../about-us.php:120
+msgid "John Doe"
+msgstr ""
+
+#: ../../about-us.php:121
+msgid "(Develpoer)"
+msgstr ""
+
+#: ../../archive.php:8
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../../archive.php:10
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../../archive.php:12
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../../archive.php:14
+msgid "Archives"
+msgstr ""
+
+#: ../../author-intro.php:4
+msgid "About Author"
+msgstr ""
+
+#: ../../author.php:7
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../../category.php:7
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../../comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../../comments.php:11
+msgid "Comment navigation"
+msgstr ""
+
+#: ../../comments.php:12
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../../comments.php:13
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../../comments.php:36
+msgid "Logged in as "
+msgstr ""
+
+#: ../../comments.php:36
+msgid " Log out?"
+msgstr ""
+
+#: ../../comments.php:37
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../../comments.php:39
+msgid "Post Comment"
+msgstr ""
+
+#: ../../comments.php:42
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../../contact-us.php:24
+msgid "Name"
+msgstr ""
+
+#: ../../contact-us.php:26
+msgid "Fill your name"
+msgstr ""
+
+#: ../../contact-us.php:29
+msgid "Email"
+msgstr ""
+
+#: ../../contact-us.php:31
+msgid "Fill your email"
+msgstr ""
+
+#: ../../contact-us.php:35
+msgid "Message"
+msgstr ""
+
+#: ../../contact-us.php:37
+msgid "Fill your Text massage"
+msgstr ""
+
+#: ../../contact-us.php:39
+msgid "Send Message"
+msgstr ""
+
+#: ../../contact-us.php:45
+msgid "Query successfully submit"
+msgstr ""
+
+#: ../../footer.php:31 ../../header.php:44
+msgid "Enigma"
+msgstr ""
+
+#: ../../footer.php:32
+msgid ""
+"Lorem ipsum dolor sit amet, no consequat ullamcorper nec, te commune "
+"constituto intellegebat eam.\n"
+"\t\t\t\t\tSoleat populo id nec. Est in altera vocibus, et vim iudico "
+"adolescens, mel no discere mediocritatem.\n"
+"\t\t\t\t\tNec ei sale honestatis, graeco melius eruditi qui et, id nam "
+"mucius maiorum. Pri diceret ornatus cu,\n"
+"\t\t\t\t\tdico quas aliquando vix ea, vix impetus invidunt honestatis id. An "
+"his everti animal."
+msgstr ""
+
+#: ../../footer.php:39
+msgid "Latest Post"
+msgstr ""
+
+#: ../../footer.php:45 ../../footer.php:54 ../../footer.php:63
+msgid "Donec scelerisque minec lectus"
+msgstr ""
+
+#: ../../footer.php:46 ../../footer.php:55 ../../footer.php:64
+msgid "Posted July 20, 2013"
+msgstr ""
+
+#: ../../footer.php:69
+msgid "Flickr Photos"
+msgstr ""
+
+#: ../../footer.php:86
+msgid "25, Lorem Lis Street,"
+msgstr ""
+
+#: ../../footer.php:87
+msgid "Street California, US"
+msgstr ""
+
+#: ../../footer.php:88
+msgid "7878 456 3456"
+msgstr ""
+
+#: ../../footer.php:89
+msgid "5656 789 3456"
+msgstr ""
+
+#: ../../functions.php:34
+msgid "Page"
+msgstr ""
+
+#: ../../functions.php:51
+msgid "Primary Menu"
+msgstr ""
+
+#: ../../functions.php:75 ../../home-blog.php:41 ../../home-blog.php:42
+#: ../../home-blog.php:75 ../../loop.php:38 ../../loop.php:39
+#: ../../loop.php:63 ../../post-content.php:35 ../../post-page.php:20
+msgid "Read More"
+msgstr ""
+
+#: ../../functions.php:93
+msgid "Sidebar"
+msgstr ""
+
+#: ../../functions.php:95
+msgid "The primary widget area"
+msgstr ""
+
+#: ../../functions.php:103
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../../functions.php:105
+msgid "footer widget area"
+msgstr ""
+
+#: ../../functions.php:266 ../../post-content.php:37
+msgid "Pages:"
+msgstr ""
+
+#: ../../functions.php:268 ../../post-content.php:43
+msgid "Next page"
+msgstr ""
+
+#: ../../functions.php:269 ../../post-content.php:44
+msgid "Previous page"
+msgstr ""
+
+#: ../../header.php:88
+msgid "Toggle navigation"
+msgstr ""
+
+#: ../../home-blog.php:66
+msgid "NO Post"
+msgstr ""
+
+#: ../../home-blog.php:69
+msgid "Tags :&nbsp;"
+msgstr ""
+
+#: ../../home-blog.php:70
+msgid "Bootstrap"
+msgstr ""
+
+#: ../../home-blog.php:71
+msgid "HTML5"
+msgstr ""
+
+#: ../../home-blog.php:74
+msgid "Add You Post To show post here.."
+msgstr ""
+
+#: ../../home-blog.php:78 ../../loop.php:66
+msgid "By Admin"
+msgstr ""
+
+#: ../../home-blog.php:79
+msgid " November 9 2013"
+msgstr ""
+
+#: ../../home-blog.php:80 ../../loop.php:68
+msgid "10"
+msgstr ""
+
+#: ../../home-portfolio.php:70
+msgid "Responsive Design"
+msgstr ""
+
+#: ../../home-portfolio.php:71
+msgid "Photography"
+msgstr ""
+
+#: ../../loop.php:54
+msgid "No Post"
+msgstr ""
+
+#: ../../loop.php:62
+msgid "Add you own post. Thos post will be shown here."
+msgstr ""
+
+#: ../../loop.php:67
+msgid "November 9. 2013"
+msgstr ""
+
+#: ../../nocontent.php:4
+msgid "Whoops... Post Not Found !!!"
+msgstr ""
+
+#: ../../search.php:7
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../../service-one-template.php:32 ../../service-two-template.php:33
+msgid "WOOPS.."
+msgstr ""
+
+#: ../../service-one-template.php:33 ../../service-two-template.php:34
+msgid ""
+"No,Services to display here. Add your services using Service-Section CPT."
+msgstr ""
+
+#: ../../single-weblizar_portfolio.php:35
+msgid "Date"
+msgstr ""
+
+#: ../../single-weblizar_portfolio.php:37
+msgid "Skills"
+msgstr ""
+
+#: ../../single-weblizar_portfolio.php:41
+msgid "Client"
+msgstr ""
+
+#: ../../single-weblizar_portfolio.php:44
+msgid "Url"
+msgstr ""
+
+#: ../../tag.php:7
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../../tag.php:24
+msgid "Older posts"
+msgstr ""
+
+#: ../../tag.php:28
+msgid "Newer posts"
+msgstr ""
+
+#: ../../theme-options/option-panel.php:33
+msgid "Enigma "
+msgstr ""
+
+#: ../../theme-options/option-panel.php:46
+msgid "Home Option"
+msgstr ""
+
+#: ../../theme-options/option-panel.php:48
+msgid "General Option"
+msgstr ""
+
+#: ../../theme-options/option-panel.php:49
+msgid "Slider Option"
+msgstr ""
+
+#: ../../theme-options/option-panel.php:50
+msgid "Service Option"
+msgstr ""
+
+#: ../../theme-options/option-panel.php:51
+msgid "Portfolio Option"
+msgstr ""
+
+#: ../../theme-options/option-panel.php:52
+msgid "Blog Option"
+msgstr ""
+
+#: ../../theme-options/option-panel.php:53
+msgid "Testimonial Option"
+msgstr ""
+
+#: ../../theme-options/option-panel.php:54
+msgid "Client Option"
+msgstr ""
+
+#: ../../theme-options/option-panel.php:55
+msgid "Call Out Area"
+msgstr ""
+
+#: ../../theme-options/option-panel.php:58
+msgid "Skin Layout"
+msgstr ""
+
+#: ../../theme-options/option-panel.php:59
+#: ../../theme-options/option-settings.php:679
+msgid "Contact Details"
+msgstr ""
+
+#: ../../theme-options/option-panel.php:60
+msgid "Social Media Links"
+msgstr ""
+
+#: ../../theme-options/option-panel.php:61
+msgid "Footer Option"
+msgstr ""
+
+#: ../../theme-options/option-panel.php:62
+msgid "Custom URL "
+msgstr ""
+
+#: ../../theme-options/option-panel.php:63
+msgid "HomePage Customizr"
+msgstr ""
+
+#: ../../theme-options/option-panel.php:64
+msgid "Maintenance Mode "
+msgstr ""
+
+#: ../../theme-options/option-settings.php:6
+msgid "General Settings"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:9
+#: ../../theme-options/option-settings.php:76
+#: ../../theme-options/option-settings.php:124
+#: ../../theme-options/option-settings.php:186
+#: ../../theme-options/option-settings.php:285
+#: ../../theme-options/option-settings.php:365
+#: ../../theme-options/option-settings.php:444
+#: ../../theme-options/option-settings.php:524
+#: ../../theme-options/option-settings.php:566
+#: ../../theme-options/option-settings.php:682
+#: ../../theme-options/option-settings.php:766
+#: ../../theme-options/option-settings.php:830
+#: ../../theme-options/option-settings.php:874
+#: ../../theme-options/option-settings.php:923
+#: ../../theme-options/option-settings.php:963
+msgid "Options Data updated"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:10
+#: ../../theme-options/option-settings.php:77
+#: ../../theme-options/option-settings.php:125
+#: ../../theme-options/option-settings.php:187
+#: ../../theme-options/option-settings.php:286
+#: ../../theme-options/option-settings.php:366
+#: ../../theme-options/option-settings.php:445
+#: ../../theme-options/option-settings.php:525
+#: ../../theme-options/option-settings.php:567
+#: ../../theme-options/option-settings.php:683
+#: ../../theme-options/option-settings.php:767
+#: ../../theme-options/option-settings.php:831
+#: ../../theme-options/option-settings.php:875
+#: ../../theme-options/option-settings.php:924
+#: ../../theme-options/option-settings.php:964
+msgid "Options data Reset"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:20
+msgid "Your Blog Title"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:21
+msgid "Enable your Blog Title as a logo.  Setup title"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:21
+#: ../../theme-options/option-settings.php:661
+msgid "Click Here"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:24
+msgid "Your Site Logo"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:27
+msgid "Add your site logo here suggested size is 150X50"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:33
+msgid "Logo Height"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:35
+msgid ""
+"Default Logo Height : 55px, if you want to increase than specify your value"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:38
+msgid "Logo Width"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:40
+msgid ""
+"Default Logo Width : 150px, if you want to increase than specify your value"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:43
+msgid "Your Site Favicon"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:46
+msgid "Make sure you upload .ico image type which is not more then 25X25 px."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:52
+msgid "Google Analytic Tracking Code"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:54
+msgid ""
+"Paste your Google Analytics tracking code here. This will be added into "
+"themes footer. Copy only scripting code i.e no need to use script tag "
+msgstr ""
+
+#: ../../theme-options/option-settings.php:57
+msgid "Custom CSS Editor"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:59
+msgid ""
+"This is a powerful feature provided here. No need to use custom css plugin, "
+"just paste your css code and see the magic."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:73
+msgid "Slider Settings"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:87
+msgid "On-mouse hover Pause"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:90
+msgid "Yes"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:91
+msgid "No"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:93
+msgid "Pause Slider on hover."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:96
+msgid "Slide show Interval"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:107
+msgid "Select Slide show Interval."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:121
+msgid "Service Settings"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:136
+msgid "service Title"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:138
+msgid "Type here your Service title"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:142
+msgid "Home Page Service Column"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:149
+msgid "Select your home page Service Column."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:153
+msgid "Number Of Service on home page"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:164
+msgid "Select your Number Of Service on home page."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:183
+msgid "Portfolio Settings"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:198
+msgid "Portfolio Title"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:200
+msgid "Type here your portfolio title"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:203
+msgid "Related Project Portfolio Title Text"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:205
+msgid "Type here your related project portfolio title text"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:209
+msgid "Portfolio light box type"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:212
+msgid "Photobox"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:213
+msgid "Swipebox"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:215
+msgid "Select your portfolio light box."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:219
+msgid "Portfolio Slide Duration"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:232
+msgid "Select your Portfolio Slide Duration."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:236
+msgid "Portfolio Slide Time Out Duration"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:249
+msgid "Select your Portfolio Slide Time Out Duration."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:253
+msgid "Portfolio Slide Item"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:264
+msgid "Select your Portfolio Slide Items."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:282
+msgid "Blog Settings"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:297
+msgid "Blog Title"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:299
+msgid "Type here your Blog title"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:303
+msgid "Blog Slide Duration"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:316
+msgid "Select your Blog Slide Duration."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:320
+msgid "Blog Slide Time Out Duration"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:333
+msgid "Select your Blog Slide Time Out Duration."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:336
+msgid "Blog Slide Item"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:346
+msgid "Select your Blog Slide Items."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:362
+msgid "Testimonial Settings"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:377
+msgid "Testimonial Title"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:379
+msgid "Type here your Testimonial title"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:383
+msgid "Testimonial Slide Duration"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:396
+msgid "Select your Testimonial Slide Duration."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:400
+msgid "Testimonial Slide Time Out Duration"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:413
+msgid "Select your Testimonial Slide Time Out Duration."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:416
+msgid "Testimonial Slide Item"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:425
+msgid "Select your Testimonial Slide Items."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:441
+msgid "Client Settings"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:456
+msgid "Client Title"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:458
+msgid "Type here your Cleint title"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:462
+msgid "Client Slide Duration"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:475
+msgid "Select your Client Slide Duration."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:479
+msgid "Client Slide Time Out Duration"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:492
+msgid "Select your Client Slide Time Out Duration."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:495
+msgid "Client Slide Item"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:505
+msgid "Select your Client Slide Items."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:521
+msgid "Call Out Settings"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:535
+msgid "Call Out Area Description"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:537
+msgid "Type here your call out  Description"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:539
+msgid "Button Text"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:541
+msgid "Type here your call out Button Text "
+msgstr ""
+
+#: ../../theme-options/option-settings.php:543
+msgid "Button Link"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:544
+msgid "Open link in a new window/tab."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:546
+msgid "Type here your call out area button link"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:563
+msgid "Skin Layout Settings"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:577
+msgid "Theme Color Schemes"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:581
+msgid "Default"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:582
+msgid "Blue"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:583
+msgid "Green"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:584
+msgid "Red"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:585
+msgid "Pink"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:586
+msgid "Orange"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:587
+msgid "Brown"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:588
+msgid "Purple"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:589
+msgid "Sky-Blue"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:590
+msgid "Litered"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:591
+msgid "Select color for you theme."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:594
+msgid "Custom Color Schemes"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:596
+msgid ""
+"Enable Custom color Schemes and set your color Schemes using color picker"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:604
+msgid "Header Position"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:607
+msgid "Fixed"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:608
+msgid "Static"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:609
+msgid "With the Help of Fixed Header you can show sites Header"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:612
+msgid "Theme Layout"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:615
+msgid "wide"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:616
+msgid "boxed"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:618
+msgid "With the Help of box layout you can show sites background"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:621
+msgid "Custom background "
+msgstr ""
+
+#: ../../theme-options/option-settings.php:659
+msgid "WordPress Custom Background"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:661
+msgid "Enable Custom Background .Set background"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:693
+msgid "Contact Heading"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:695
+msgid "Type here your contact Heading"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:697
+msgid "Contact Description"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:699
+msgid "Type here your contactPage Heading"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:703
+msgid "Phone Number Text"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:705
+msgid "Type here your contact Phone number text"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:707
+msgid "Phone Number"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:709
+msgid "Type here your contact Phone number"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:713
+msgid "Email Address Text"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:715
+msgid "Type here your Contact Email Address Text"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:717
+msgid "Email Address"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:719
+msgid "Type here your contact Email address"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:722
+msgid "Office Time Label"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:724
+msgid "Type here Office Timings"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:726
+msgid "Office Time In Hours"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:728
+msgid "Type here Office Time In Hours"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:731
+msgid "Contact Address Text"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:733
+msgid "Type here your contact address text"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:736
+msgid "Contact Address"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:738
+msgid "Type here your contact address"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:744
+msgid "Google Maps Url"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:745
+msgid "Enable Google map in contact section."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:748
+msgid "Type here your Google map url"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:763
+msgid "Social media"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:777
+msgid "Enable Social media:"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:778
+msgid "Enable social media on Header ."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:779
+msgid "Enable Social media in Footer ."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:782
+msgid "Twitter Link:"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:784
+msgid "Enter twitter link."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:787
+msgid "Linkedin Links:"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:789
+msgid "Enter linkedin link."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:793
+msgid "Facebook Links:"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:795
+msgid "Enter facebook link."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:799
+msgid "Google Plus Links:"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:801
+msgid "Enter google plus link."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:804
+msgid "Dribble Links:"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:806
+msgid "Enter Dribble link."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:809
+msgid "You-tube Links:"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:811
+msgid "Enter You-tube link."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:827
+msgid "Footer Customization"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:841
+msgid "Footer customization"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:843
+msgid "Enter your footer customization text "
+msgstr ""
+
+#: ../../theme-options/option-settings.php:846
+msgid "Developed by text"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:848
+msgid "Enter developed by text"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:851
+msgid "Developed by link text"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:853
+msgid "Enter developed by link text  "
+msgstr ""
+
+#: ../../theme-options/option-settings.php:856
+msgid "Developed by link"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:858
+msgid "Enter developed by link"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:871
+msgid "Maintenance Mode"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:885
+msgid "Enable Maintenance Mode"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:886
+msgid "Enable Maintainence Mode on Site."
+msgstr ""
+
+#: ../../theme-options/option-settings.php:889
+msgid "Title of the Page"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:891
+msgid "Add your Heading for this Page"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:894
+msgid "Add Text Description"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:896
+msgid "Add description for the Maintenance Mode Ready Page "
+msgstr ""
+
+#: ../../theme-options/option-settings.php:899
+msgid "Coming Soon Image"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:902
+msgid "Add Image for Maintenance Mode Ready Page"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:920
+msgid "Custom Links for Slider , Services , Portfolio"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:934
+msgid "Slider - Custom Link"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:936
+msgid "Enter your custom links for SLIDER "
+msgstr ""
+
+#: ../../theme-options/option-settings.php:939
+msgid "Service - Custom Link"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:941
+msgid "Enter your custom links for SERVICES "
+msgstr ""
+
+#: ../../theme-options/option-settings.php:944
+msgid "Portfolio - Custom Link"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:946
+msgid "Enter your custom links for PORTFOLIO "
+msgstr ""
+
+#: ../../theme-options/option-settings.php:960
+msgid "Home Layout Manager"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:978
+msgid "Disabled"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:995
+msgid "Enabled"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:1015
+msgid "Weblizar Slider will always remain top of the Home page"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:1016
+msgid "Note:"
+msgstr ""
+
+#: ../../theme-options/option-settings.php:1016
+msgid ""
+"By default all the section are enable on Home Page. If you want to disable "
+"any section just drag this section to the disabled box."
+msgstr ""
